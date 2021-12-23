@@ -1,4 +1,4 @@
-module user-service-proto
+module github.com/KolesnikAlex/user-service-proto
 
 go 1.17
 
